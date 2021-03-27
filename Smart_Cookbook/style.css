@@ -1,0 +1,59 @@
+body{
+    background-color: red;
+    background-image: url("background\(index\).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+#heading{
+    text-align: center;
+    font-size: 50px;
+    color:black;
+}
+#frm{
+    size: 30px;
+    border: solid gray 5px;
+    width: 20%;
+    border-radius: 5px;
+    margin: 100px auto;
+    background: white;
+    padding: 50px;
+}
+
+#btn{
+    color: #fff;
+    background: green;
+    padding: 5px;
+    margin-left: auto;
+    }
+
+#rst{
+    color: #fff;
+    background: red;
+    padding: 5px;
+    margin-left: auto;
+}
+    body{
+        text-align: center;
+        background-color: whitesmoke;
+    }
+    input{
+        font-size: 16px;
+        text-align: center;
+        width: 40%;
+        height: 10%;
+        border: 1px;
+        border-radius: 5px;
+        padding: 8px 15px;
+        margin: 10px 0px;
+        box-shadow: 1px 1px 2px 1px grey;
+    }
+    button{
+        transition: all;
+        font-size: 30px;
+    }
+    .login:hover{
+        color:red;
+        font-size: 30px;
+    }
