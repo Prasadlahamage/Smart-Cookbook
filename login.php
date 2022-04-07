@@ -51,6 +51,11 @@
                 Login as Administrator
             </a>
         </div>
+				    <div class="login">
+            <a href="crud.html">
+                Login as Administrator
+            </a>
+        </div>
 
     </body>
 </html>
